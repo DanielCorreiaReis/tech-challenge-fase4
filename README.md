@@ -64,7 +64,7 @@ pip install opencv-python mediapipe deepface numpy tqdm
 ### 4. Execute o Script
 
 ```bash
-python seu_arquivo.py
+python Tech_Challenge_4.py
 ```
 
 ---
