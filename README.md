@@ -73,11 +73,3 @@ python seu_arquivo.py
 
 - `output_video_analysis.mp4`: vídeo original com anotações de atividades e emoções.
 - `output_video_analysis_relatorio.txt`: relatório de contagem de atividades e emoções detectadas.
-
----
-
-## 📌 Observações
-
-- O desempenho pode variar dependendo da qualidade da imagem e da posição dos participantes no vídeo.
-- O DeepFace analisa emoções com base em rostos visíveis. Rostos ocultos ou fora de foco podem afetar a detecção.
-- O código inclui mecanismos de *cooldown* para evitar contagens duplicadas em movimentos contínuos.
