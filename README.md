@@ -72,4 +72,4 @@ python Tech_Challenge_4.py
 ## 📂 Saídas Geradas
 
 - `output_video_analysis.mp4`: vídeo original com anotações de atividades e emoções.
-- `output_video_analysis_relatorio.txt`: relatório de contagem de atividades, emoções detectadas e anomalias.
+- `output_video_analysis_relatorio.txt`: relatório de quantidade de frames analisados, contagem de atividades, emoções detectadas e anomalias.
