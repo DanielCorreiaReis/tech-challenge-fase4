@@ -1,5 +1,5 @@
 
-# 📊 Video Human Activity & Emotion Analyzer
+# 📊 Analise de Atividade Humana e Emoção em Vídeo
 
 Este projeto realiza a análise automática de **atividades corporais** (como aceno, dança e aperto de mãos) e **emoções faciais** em vídeos, utilizando as bibliotecas `MediaPipe`, `OpenCV` e `DeepFace`. O resultado é um novo vídeo anotado e um relatório detalhado com as estatísticas detectadas.
 
