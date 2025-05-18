@@ -32,7 +32,7 @@ Este projeto realiza a análise automática de **atividades corporais** (como ac
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/DanielCorreiaReis/tech-challenge-fase4
+git clone git@github.com:DanielCorreiaReis/tech-challenge-fase4.git
 cd seu-repositorio
 ```
 
