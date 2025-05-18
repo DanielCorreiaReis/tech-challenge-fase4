@@ -31,9 +31,9 @@ Este projeto realiza a análise automática de **atividades corporais** (como ac
 
 ### 1. Baixe o Vídeo Original
 
-Acesse o seguinte link e baixe o vídeo desejado:
+Acesse o seguinte link do Google Drive e baixe o vídeo chamado "video.mp4":
 
-🔗 [Google Drive - Vídeos de Exemplo](https://drive.google.com/drive/folders/1nZtu9tPjDRBXSeF-7xoAGmajqVno7w2j?usp=sharing)
+🔗 [Link do Google Drive](https://drive.google.com/drive/folders/1nZtu9tPjDRBXSeF-7xoAGmajqVno7w2j?usp=sharing)
 
 Salve o vídeo na raiz do projeto com o nome `video.mp4`, ou edite o nome diretamente no código, na linha abaixo:
 
