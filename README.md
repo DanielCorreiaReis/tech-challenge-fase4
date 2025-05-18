@@ -29,14 +29,26 @@ Este projeto realiza a análise automática de **atividades corporais** (como ac
 
 ## 🛠️ Como Executar
 
-### 1. Clone o Repositório
+### 1. Baixe o Vídeo Original
+
+Acesse o seguinte link e baixe o vídeo desejado:
+
+🔗 [Google Drive - Vídeos de Exemplo](https://drive.google.com/drive/folders/1nZtu9tPjDRBXSeF-7xoAGmajqVno7w2j?usp=sharing)
+
+Salve o vídeo na raiz do projeto com o nome `video.mp4`, ou edite o nome diretamente no código, na linha abaixo:
+
+```python
+input_video_path = os.path.join(script_dir, 'video.mp4')
+```
+
+### 2. Clone o Repositório
 
 ```bash
 git clone git@github.com:DanielCorreiaReis/tech-challenge-fase4.git
 cd seu-repositorio
 ```
 
-### 2. Instale as Dependências
+### 3. Instale as Dependências
 
 Recomenda-se usar Python 3.10 ou superior.
 
@@ -48,14 +60,6 @@ pip install opencv-python mediapipe deepface numpy tqdm
 > ```bash
 > pip install tensorflow keras
 > ```
-
-### 3. Coloque o vídeo a ser analisado na raiz do projeto
-
-Nomeie o vídeo como `video.mp4` ou edite o nome dentro do código no bloco abaixo:
-
-```python
-input_video_path = os.path.join(script_dir, 'video.mp4')
-```
 
 ### 4. Execute o Script
 
